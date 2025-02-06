@@ -1,6 +1,6 @@
 # Hi, I'm Vidhi Mistry! 👋
 
-## Data Analytics Enthusiast | Problem Solver | Formula 1 Fan
+## Data Analytics Enthusiast 
 Welcome to my GitHub! I’m Vidhi Mistry, a passionate Data Analyst and lifelong learner with a strong foundation in mechanical engineering and deep experience in data-driven problem-solving across insurance and business process outsourcing. I thrive on using data to unlock insights, optimize processes, and tackle complex business challenges. Whether it's analyzing crime trends, optimizing supply chains, or working on real-time health monitoring systems, I love diving into the details to deliver high-impact results.
 
 ## 🚀 What I'm Working On
@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m Vidhi Mistry, a passionate Data Analyst and lifelong
 - Data Analysis: Python (Pandas, NumPy, Scikit-learn), SQL, R
 - Visualization: Tableau, Power BI, Matplotlib, Seaborn
 - Big Data & Spark: Hadoop, Apache Spark
-- Database Management: MySQL, MongoDB
+- Database Management: MySQL, SQLite
 - Tools: Git, Jupyter Notebooks
 - Frameworks: Machine Learning (Supervised, Unsupervised, NLP), Data Wrangling, Predictive Analytics
 
