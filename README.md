@@ -1,27 +1,77 @@
-# Hi, I'm Vidhi Mistry! 👋
+# 👋 Hi, I'm Vidhi Mistry
 
-## Data Analytics Enthusiast 
-Welcome to my GitHub! I’m Vidhi Mistry, a passionate Data Analyst and lifelong learner with a strong foundation in mechanical engineering and deep experience in data-driven problem-solving across insurance and business process outsourcing. I thrive on using data to unlock insights, optimize processes, and tackle complex business challenges. Whether it's analyzing crime trends, optimizing supply chains, or working on real-time health monitoring systems, I love diving into the details to deliver high-impact results.
+## 👷‍♀️ Quality Engineering Specialist | 🎓 MS in Statistical Analytics | 🔍 Process Optimization & Data Insights
 
-## 🚀 What I'm Working On
-- Data Science & Analytics Projects: Predictive modeling, trend analysis, and visualizations using Python, Tableau, and other tools.
-- Natural Language Processing (NLP): Exploring text mining techniques for insights and predictions.
-- Machine Learning: Building models that improve decision-making in industries like healthcare, finance, and manufacturing.
+Hello! I'm Vidhi Mistry, a quality-focused engineering professional with a background in mechanical engineering and over 5 years of hands-on experience in manufacturing, quality assurance, and process improvement. I recently completed my Master's in Statistical Analytics from Northeastern University, where I explored how data can drive meaningful decisions in engineering systems.
 
-## 🛠 Skills & Technologies
-- Data Analysis: Python (Pandas, NumPy, Scikit-learn), SQL, R
-- Visualization: Tableau, Power BI, Matplotlib, Seaborn
-- Big Data & Spark: Hadoop, Apache Spark
-- Database Management: MySQL, SQLite
-- Tools: Git, Jupyter Notebooks
-- Frameworks: Machine Learning (Supervised, Unsupervised, NLP), Data Wrangling, Predictive Analytics
+I’m passionate about combining structured quality methodologies with the power of data analytics to drive operational excellence, improve supplier performance, and reduce inefficiencies across the production lifecycle.
 
-## 📊 My Recent Projects
-- Crime Data Analysis: Analyzed trends in crime data from 2010-2019, built predictive models, and identified key geographic areas and demographics.
-- Healthcare Analytics: Worked on real-time health monitoring and predictive algorithms for stroke diagnosis, achieving high accuracy and precision.
-- Superstore Sales Analysis: Built dashboards in Tableau to visualize key sales trends, profits, and customer segments.
+---
 
-## 🌍 Let’s Connect!
-- LinkedIn - www.linkedin.com/in/vidhimistryr
-- Tableau Portfolio - https://public.tableau.com/app/profile/vidhi.rajeshbhai.mistry
+## 🧩 My Journey
+
+### 🏭 From Shop Floor to Strategy  
+I started my career on the shop floor — implementing root cause analysis, reducing scrap, and leading quality audits. Over time, I moved into managing cross-functional quality teams, implementing ISO-compliant QMS, and leading large-scale defect reduction and continuous improvement initiatives.
+
+### 📊 The Shift to Data  
+Curiosity led me to analytics. While managing KPIs, quality dashboards, and audits, I realized the potential of data to uncover patterns and prevent issues before they occur. This drove me to pursue formal training in statistical methods, machine learning, and data visualization tools — so I could solve problems better, faster, and smarter.
+
+---
+
+### 🔍 Quality Engineering
+- ISO 9001, QMS design, audit readiness
+- FMEA, 8D, CAPA, SPC, Control Charts
+- Supplier performance improvement (APQP, PPAP, SCARs)
+- Cost of Poor Quality (COPQ) reduction
+- Layered Process Audits, Risk Prioritization, Inspection Planning
+
+### 📈 Data-Driven Process Improvement
+- Statistical analysis using DOE, Process Capability (Cpk, Ppk)
+- KPI tracking via Excel VBA, Power BI, Tableau
+- Real-time dashboards for quality metrics and compliance
+- Data wrangling & root cause detection using Python and R
+
+### 🧠 Soft Skills & Approach
+- Strong cross-functional communication
+- Proactive mindset for continuous improvement
+- Ability to translate technical issues into actionable insights
+- Always learning, adapting, and seeking better solutions
+
+---
+
+## 🛠 Tools & Technologies
+
+**Quality Tools**  
+Lean Six Sigma, DMAIC, 5S, PDCA, SIPOC, MSA, GD&T, BOM, ECO, Process Validation, CMM, Gage R&R
+
+**Analytics & Visualization**  
+Python (Pandas, NumPy), R, SQL, Excel (VBA, Macros, Pivot), Tableau, Power BI, Minitab, JMP
+
+**Platforms & Software**  
+SAP, SolidWorks, AutoCAD, Catia, Maximo, OEE Buddy, MS Project
+
+---
+
+## 🎓 Education
+
+**Master of Science in Statistical Analytics**  
+*Northeastern University, Boston, MA*  
+*April 2025*
+
+**Bachelor of Engineering in Mechanical Engineering**  
+*Shivaji University, Kolhapur, India*
+*July 2019*
+
+---
+
+## 📬 Let’s Connect
+
+I enjoy discussing ideas related to quality improvement, engineering systems, and using data to solve messy, real-world problems. If you're working on something in that space or just want to connect:
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/vidhimistryr)  
+- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/vidhi.rajeshbhai.mistry)
+
+---
+
+
 
